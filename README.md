@@ -4,6 +4,8 @@ The hardware side is pretty simple, an Arduino UNO collects data from some senso
 sends it via serial. On the computer, a Python program takes that data and not only graphs 
 it, but it also allows the user to save it, manages questions and adds question and answer 
 markers to the graphs so results can later be inspected. All results are saved in .txt files.
+Two sample files are provided, a questions file and an exam file. The exam file can be opened
+and visualized from the Python program.
 
 Find more information here: https://juangg-projects.blogspot.com/2019/06/usb-polygraph.html
 
